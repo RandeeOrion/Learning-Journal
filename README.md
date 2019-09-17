@@ -9,7 +9,7 @@ When I am stuck and want to throw the computer, it will be helpful to remind mys
 - That I can do hard things 
 - If I am stuck, I must simply work harder: after a snack break, _of course_
 
-![Bang Head On Wall](
+![Books!](radbooks.jpg)
 
 
 You can use the [editor on GitHub](https://github.com/RandeeOrion/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
