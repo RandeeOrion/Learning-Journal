@@ -1,6 +1,6 @@
 ## Welcome to Randee's Learning Journal 
 
-My name is Randee and I am really going to need to get glasses if I am going to be at the computer this much. In the mean time, here is a link to my [Learning Journal](https://randeeorion.github.io/Learning-Journal/)
+My name is Randee and I am really going to need to get glasses if I am going to be at the computer this much. In the mean time, here is a link to my [Learning Journal](https://github.com/RandeeOrion)
 ### A Few Objectives for the Learning Journal
 This learning journal will be a place where I can take notes on quesitons I have or topics I have learned about and will be one way I can communicate with Stephanie, the instructor, to ensure I am learning correct deffinitions and techniques.
 ### Growth Mindset
