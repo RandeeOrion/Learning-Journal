@@ -1,6 +1,6 @@
-## Welcome to Randee'S Learning Journal 
+## Welcome to Randee's Learning Journal 
 
-
+My name is Randee and I am really going to need to get glases if I am going to be at the computer this much. In the mean time, here is a link to my [Learning Journal] (
 
 You can use the [editor on GitHub](https://github.com/RandeeOrion/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
