@@ -1,6 +1,8 @@
 ## Welcome to Randee's Learning Journal 
 
-My name is Randee and I am really going to need to get glases if I am going to be at the computer this much. In the mean time, here is a link to my [Learning Journal] (
+My name is Randee and I am really going to need to get glases if I am going to be at the computer this much. In the mean time, here is a link to my [Learning Journal] ()
+This learning journal will be a place where I can take notes on quesitons I have or topics I have learned about and will be one way I can communicate with Stephanie, the instructor, to ensure I am learning correct deffinition and techniques.
+
 
 You can use the [editor on GitHub](https://github.com/RandeeOrion/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
