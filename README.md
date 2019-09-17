@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Randee'S Learning Journal 
 
 You can use the [editor on GitHub](https://github.com/RandeeOrion/Learning-Journal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
