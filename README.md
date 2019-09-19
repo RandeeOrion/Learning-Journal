@@ -11,3 +11,9 @@ When I am stuck and want to throw the computer, it will be helpful to remind mys
 - If I am stuck, I must simply work harder: after a snack break, _of course_
 
 ![Books!](radbooks.jpg)
+
+## Class 2
+### Paths in the Terminal
+- A relative path is something like the crow flies, while a direct path is something more like directions from google maps; as counter intutive as that seems. When asking for a relative path, we can see that we move from west seattle over the Duwamish river to get to Georgetown. If we are describing a direct path, we have to first move our car from Roxbury to 99 South, then take the exit for Marginal Way and there is Georgetown. When looking for a path we can use the basic comand 'ls file name' to find a relative path and when describing a direct path, we will use ls /folder name /folder name /file name. 
+- when in the terminal, to make sure we aren't currenting working in an area we don't want to, we can use the comand 'pwd'
+- 
