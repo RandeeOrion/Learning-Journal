@@ -1,3 +1,5 @@
+## Day Two: The Termianl 
+
 ### Paths in the Terminal
 - A relative path is where a directory is located in realtion to where we currently are in the computer.
 - A direct path is where a directory is located in relation to the root system. My undestanding of the root system, is something like a city. If we were to start at, say the north end of the city as a start. We could always give directions to a place in the city starting from that northern point. This would be a direct path. A relative path would be if we gave directions from where we currently were in that city to where we were heading. 

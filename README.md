@@ -1,6 +1,6 @@
-## Welcome to Randee's Learning Journal 
+## Welcome to Randee's Coding 102 Learning Journal 
 
-### Index
+### Index for the Course Notes
 
 ##### [Day 1](day1.md)
 ##### [Day 2](day2.md)
